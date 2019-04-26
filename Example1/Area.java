@@ -14,7 +14,7 @@ public class Area {
         System.out.println("Please enter a height");
         height = input.nextInt();
 
-        int area = ;// fill in the area formula and print it out
+        // Calculate the area formula and print it out
     
     }
 }
